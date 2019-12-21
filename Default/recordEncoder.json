@@ -1,0 +1,8 @@
+{
+    "cqp": 25,
+    "keyint_sec": 0,
+    "lookahead": true,
+    "max_bitrate": 8000,
+    "preset": "mq",
+    "rate_control": "VBR"
+}
